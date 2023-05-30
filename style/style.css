@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+/* Home page */
+/*----------------------------------------------------------------------------------------------------------- */
+.home-pg {
+    background-image: url(https://i.postimg.cc/tgJB2Zd9/anas-alshanti-fe-Xpd-V001o4-unsplash-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+/* Product page */
+/* ------------------------------------------------------------------------------------------------------------ */
+body {
+    background: linear-gradient(to left, #001e65, #101a5c, #181652, #1b124a, #1d0e41, #2a1448, #351b4e, #412255, #5e366d, #7c4a86, #9c609f, #bd76b8);
+    background-size: cover;
+}
